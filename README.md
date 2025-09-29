@@ -1,1 +1,1 @@
-# Estad-stica-Espacial-Analisis-Calidad-del-Aire
+# Estadistica-Espacial-Analisis-Calidad-del-Aire
